@@ -1,0 +1,7 @@
+
+    Test Data Summary:
+    - Mean Actual Demand: 268.20
+    - Std Dev Actual Demand: 138.57
+    - Min Actual Demand: 10
+    - Max Actual Demand: 493
+    

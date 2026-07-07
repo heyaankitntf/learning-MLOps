@@ -1,0 +1,23 @@
+artifact_path: /home/ntf-200/Ankit Gupta/prediction-app/mlruns/1/models/m-68cbdd2db3f84316ba8ee8173f7f6320/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.6.1
+    skops_trusted_types: null
+mlflow_version: 3.14.0
+model_id: m-68cbdd2db3f84316ba8ee8173f7f6320
+model_size_bytes: 3245660
+model_uuid: m-68cbdd2db3f84316ba8ee8173f7f6320
+prompts: null
+run_id: d5988c9085824531af81f572d36c465b
+utc_time_created: '2026-07-06 11:57:35.201456'
